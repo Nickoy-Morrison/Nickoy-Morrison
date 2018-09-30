@@ -21,7 +21,7 @@
 }
 .work{
   background-color:yellow;
-}
+}-----
 .education{
   background-color: green;
 }
@@ -29,5 +29,6 @@
   background-color: gold;
 }
 .image{
+  border: 2px solid red;
   border-radius: 100px;
 }
