@@ -4,3 +4,25 @@
   justify-content: center;
   height: 100%;
 }
+
+.head{
+  background-color: red;
+}
+.contact{
+  background-color: blue;
+}
+.media{
+  background-color:grey;
+}
+.biography{
+  background-color: pink;
+}
+.work{
+  background-color:yellow;
+}
+.education{
+  background-color: green;
+}
+.skills{
+  background-color: gold;
+}
