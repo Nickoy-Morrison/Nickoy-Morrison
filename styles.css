@@ -16,25 +16,14 @@
   background-color: red;
 }
 .contact{
-  background-color: blue;
-  flex-direction: column;
+  background-color: grey;
+
 }
-.media{
-  background-color:grey;
-  flex-direction: column;
-}
+
 .biography{
   background-color: pink;
 }
-.work{
-  background-color:yellow;
-}-----
-.education{
-  background-color: green;
-}
-.skills{
-  background-color: gold;
-}
+
 .image{
   border: 2px solid red;
   border-radius: 100px;
