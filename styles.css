@@ -1,0 +1,6 @@
+.grid {
+  border: 2px blue solid;
+  display:flex;
+  justify-content: center;
+  height: 100%;
+}
