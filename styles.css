@@ -1,15 +1,17 @@
 .grid {
   border: 2px blue solid;
   display:flex;
+  background-color:gold;
   justify-content: center;
-  height: 1000%;
+  height: 100%;
 }
 
 .grid1 {
   border: 2px red solid;
   display:flex;
+  border-spacing: 20px;
   justify-content: center;
-  height: 1000%;
+  height: 100%;
 }
 
 .head{
@@ -17,7 +19,6 @@
 }
 .contact{
   background-color: grey;
-
 }
 
 .biography{
@@ -26,5 +27,5 @@
 
 .image{
   border: 2px solid red;
-  border-radius: 100px;
+  border-radius: 200px;
 }
