@@ -1,11 +1,6 @@
 .grid {
-  display:flex;
   border: 2px blue solid;
-  height: 1000px;
-  width: 1000px;
-  display: grid;
-  grid-template-columns: 25% 25% 2fr 1fr;
-  grid-template-rows: 200px 200px;
-  grid-row-gap: 10px;
-  grid-column-gap: 15px;
+  height: 3000px;
+  width: 3000px;
+  display:flex;
 }
