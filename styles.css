@@ -36,7 +36,7 @@
   border-radius: 200px;
 }
 .Para{
-  border: 1px;
+  border: 1px solid black;
   padding-left: 125 px;
   padding-right: 50 px;
   word-wrap: break-word;
