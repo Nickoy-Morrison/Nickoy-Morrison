@@ -9,27 +9,34 @@
 .grid1 {
   border: 2px red solid;
   display:flex;
-  padding: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
   justify-content: center;
   height: 100%;
 }
+
 
 .head{
   background-color: red;
 }
 .contact{
   border: 3px solid blue;
-  padding-left: 100px;
+  padding-left: 25px;
   background-color: grey;
 }
 
 .biography{
   border: 3px solid green;
-  padding-left: 50px;
+  padding-left: 25px;
   background-color: pink;
 }
 
 .image{
   border: 2px solid green;
   border-radius: 200px;
+}
+.Para{
+  border: 3px solid;
+  padding-left: 100px;
+  word-wrap: break-word;
 }
