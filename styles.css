@@ -9,8 +9,7 @@
 .grid1 {
   border: 2px red solid;
   display:flex;
-  border-collapse: separate;
-  border-spacing: 20px;
+  padding: 10px;
   justify-content: center;
   height: 100%;
 }
@@ -20,13 +19,13 @@
 }
 .contact{
   border: 3px solid blue;
-  border-spacing: 20px;
+  padding-left: 100px;
   background-color: grey;
 }
 
 .biography{
   border: 3px solid green;
-  border-spacing: 20px;
+  padding-left: 50px;
   background-color: pink;
 }
 
