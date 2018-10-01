@@ -9,6 +9,7 @@
 .grid1 {
   border: 2px red solid;
   display:flex;
+  border-collapse: separate;
   border-spacing: 20px;
   justify-content: center;
   height: 100%;
