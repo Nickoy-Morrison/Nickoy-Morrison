@@ -37,14 +37,14 @@
 }
 .Para{
   border: 1px;
-  padding-left: 150px;
+  padding-left: 130px;
   padding-right: 50px;
   word-wrap: break-word;
 }
 
 .Para1{
   border-bottom: 1px solid navy;
-  padding-left: 150px;
+  padding-left: 130px;
   padding-right: 50px;
   word-wrap: break-word;
   padding-bottom: 40px;
