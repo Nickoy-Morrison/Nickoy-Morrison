@@ -19,14 +19,14 @@
 
 .head{
 }
-.set{
+.set1{
   border: 2px solid black;
   padding-left: 30px;
   padding-right: 30px;
   background-color: grey;
 }
 
-.set1{
+.set2{
   border: 2px solid aqua;
   padding-left: 25px;
   background-color: silver;
@@ -52,5 +52,5 @@
 }
 
 .media{
-  display: inline;
+
 }
