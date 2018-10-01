@@ -42,7 +42,10 @@
   word-wrap: break-word;
 }
 
-.pad{
+.Para1{
   border-bottom: 1px solid navy;
+  padding-left: 125 px;
+  padding-right: 50 px;
+  word-wrap: break-word;
   padding-bottom: 75 px;
 }
