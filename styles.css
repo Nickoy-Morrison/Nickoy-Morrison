@@ -1,7 +1,7 @@
 .grid {
   border: 2px blue solid;
   display:flex;
-  background-color:gold;
+  background-color:aqua;
   justify-content: center;
   height: 100%;
 }
@@ -17,26 +17,32 @@
 
 
 .head{
-  background-color: red;
 }
 .contact{
-  border: 3px solid blue;
+  border: 2px solid black;
   padding-left: 25px;
+  padding-right: 25px;
   background-color: grey;
 }
 
 .biography{
-  border: 3px solid green;
+  border: 2px solid aqua;
   padding-left: 25px;
-  background-color: pink;
+  background-color: silver;
 }
 
 .image{
-  border: 2px solid green;
+  border: 1px solid ;
   border-radius: 200px;
 }
 .Para{
-  border: 3px solid;
-  padding-left: 100px;
+  border: 1px;
+  padding-left: 125 px;
+  padding-right: 50px;
   word-wrap: break-word;
+}
+
+.pad{
+  border-bottom: 1px solid navy;
+  padding-bottom: 75 px;
 }
