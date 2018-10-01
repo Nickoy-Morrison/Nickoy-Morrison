@@ -18,12 +18,14 @@
   background-color: red;
 }
 .contact{
-  border: 2px solid blue;
+  border: 3px solid blue;
+  border-spacing: 20px;
   background-color: grey;
 }
 
 .biography{
-  border: 2px solid green;
+  border: 3px solid green;
+  border-spacing: 20px;
   background-color: pink;
 }
 
