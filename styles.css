@@ -19,14 +19,14 @@
 
 .head{
 }
-.contact{
+.set{
   border: 2px solid black;
   padding-left: 30px;
   padding-right: 30px;
   background-color: grey;
 }
 
-.biography{
+.set1{
   border: 2px solid aqua;
   padding-left: 25px;
   background-color: silver;
@@ -51,6 +51,6 @@
   padding-bottom: 40px;
 }
 
-.line{
+.media{
   display: inline;
 }
