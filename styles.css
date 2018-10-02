@@ -29,7 +29,7 @@
 .boxhead{
     border: 2px solid Turquoise;
     text-align: center;
-    
+
 }
 
 .sideB{
@@ -38,6 +38,7 @@
  grid-column-end: 4;
  grid-row-start: 3;
  grid-row-end: 5;
+ background-color: silver;
 }
 
 .content{
@@ -46,6 +47,7 @@
   grid-column-end: 7;
   grid-row-start: 3;
   grid-row-end: 5;
+  background-color: aliceblue;
 }
 
 .set1{
@@ -53,14 +55,14 @@
   border-left: 3px solid white;
   padding-left: 10px;
   padding-right: 10px;
-  background-color: silver;
+
 }
 
 .set2{
   border: 1px ;
   padding-left: 25px;
   padding-right: 15px;
-  background-color: aliceblue;
+
 }
 
 .image{
@@ -97,24 +99,4 @@
 
 body{
   font-family: "Times New Roman", Times, serif;
-}
-
-
-.gridr {
-  border: 2px solid Aquamarine;
-  display:flex;
-  background-color: Teal;
-  justify-content: center;
-  height: 100%;
-  padding-bottom: 30px;
-  padding-top: 30px;
-}
-
-.grid1 {
-  border: 1px;
-  display:flex;
-  padding-left: 40px;
-  padding-right: 40px;
-  justify-content: center;
-  height: 100%;
 }
