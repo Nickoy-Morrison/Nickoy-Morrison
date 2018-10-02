@@ -9,11 +9,10 @@
 }
 
 .angle {
-  border-radius: 5px;
-  border: 2px black solid;
 }
 
 .head{
+  border: 2px black solid;
   grid-column-start: 1;
   grid-column-end: 7;
   grid-row-start: 1;
@@ -25,11 +24,13 @@
 .sethead{
   border: 2px solid Turquoise;
   display: flex;
+  color: white;
   justify-content: center;
   padding: 20px;
 }
 
 .sideB{
+  border: 2px black solid;
   grid-column-start: 1;
  grid-column-end: 4;
  grid-row-start: 3;
@@ -37,6 +38,7 @@
 }
 
 .content{
+  border: 2px black solid;
   grid-column-start: 4;
   grid-column-end: 7;
   grid-row-start: 3;
