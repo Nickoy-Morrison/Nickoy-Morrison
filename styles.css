@@ -1,5 +1,5 @@
 .grid {
-  border: 2px solid Turquoise;
+  border: 2px solid Aquamarine;
   display:flex;
   background-color: Teal;
   justify-content: center;
@@ -19,7 +19,7 @@
 
 
 .head{
-  border: 2px solid Aquamarine ;
+  border: 2px solid Turquoise;
   text-align: center;
   color:white;
   padding: 20px;
@@ -70,6 +70,7 @@
   border-bottom: 2px solid Aqua ;
   padding-bottom: 25px;
 }
+
 body{
   font-family: "Times New Roman", Times, serif;
 }
