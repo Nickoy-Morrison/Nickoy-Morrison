@@ -8,7 +8,7 @@
 }
 
 .grid1 {
-  border: 2px solid;
+  border: 1px;
   display:flex;
   padding-left: 40px;
   padding-right: 40px;
@@ -20,12 +20,12 @@
 .head{
 }
 .set1{
-  border: 2px solid;
+  border-left: 2px solid red;
   background-color: grey;
 }
 
 .set2{
-  border: 2px solid;
+  border: 1px ;
   padding-left: 25px;
   background-color: silver;
 }
@@ -42,14 +42,14 @@
 }
 
 .Para1{
-  border-bottom: 1px solid navy;
+  border-bottom: 2px solid navy;
   padding-left: 130px;
   padding-right: 50px;
   word-wrap: break-word;
   padding-bottom: 40px;
 }
 .imgspace{
-  border: 2px solid;
+  border: 2px;
   padding-left: 25px;
   padding-right: 25px;
 }
