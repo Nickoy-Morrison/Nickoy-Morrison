@@ -15,7 +15,7 @@
   grid-row-start: 1;
   grid-row-end: 3;
   background-color: Teal;
-  padding: 50px;
+  padding: 10px;
 }
 
 .sethead{
@@ -23,11 +23,12 @@
   display: flex;
   color: white;
   justify-content: center;
-  padding: 20px;
+  padding: 10px;
 }
 
 .boxhead{
     border: 2px solid Turquoise;
+    text-align: center;
     padding: 20px;
 }
 
