@@ -8,9 +8,6 @@
   padding: 20px;
 }
 
-.angle {
-}
-
 .head{
   border: 2px black solid;
   grid-column-start: 1;
@@ -18,7 +15,7 @@
   grid-row-start: 1;
   grid-row-end: 3;
   background-color: Teal;
-  padding: 100px:
+  padding: 50px;
 }
 
 .sethead{
@@ -27,6 +24,11 @@
   color: white;
   justify-content: center;
   padding: 20px;
+}
+
+.boxhead{
+    border: 2px solid Turquoise;
+    padding: 20px;
 }
 
 .sideB{
