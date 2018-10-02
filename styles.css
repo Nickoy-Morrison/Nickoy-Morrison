@@ -1,11 +1,11 @@
 .grid {
-  border: 2px blue solid;
+  border: 2px solid Turquoise;
   display:flex;
-  background-color:aqua;
+  background-color: Teal;
   justify-content: center;
   height: 100%;
   padding-bottom: 30px;
-  padding-top: 3`0px;
+  padding-top: 30px;
 }
 
 .grid1 {
@@ -19,7 +19,8 @@
 
 
 .head{
-  border: 2px solid blue;
+  border: 2px solid Aquamarine ;
+  text-align: center;
   color:white;
   padding: 20px;
 }
@@ -27,20 +28,21 @@
 .set1{
   border-right: 3px solid white;
   padding-left: 10px;
-  background-color: grey;
+  background-color: silver;
 }
 
 .set2{
   border: 1px ;
   padding-left: 25px;
   padding-right: 15px;
-  background-color: silver;
+  background-color: aliceblue;
 }
 
 .image{
   border: 1px;
   border-radius: 200px;
 }
+
 .Para{
   border: 1px;
   padding-left: 130px;
@@ -49,12 +51,13 @@
 }
 
 .Para1{
-  border-bottom: 2px solid navy;
+  border-bottom: 2px solid Aqua ;
   padding-left: 130px;
   padding-right: 50px;
   word-wrap: break-word;
   padding-bottom: 40px;
 }
+
 .imgspace{
   border: 2px;
   padding-top: 15px;
@@ -63,8 +66,8 @@
 }
 
 .line{
-  border-bottom: 2px solid navy;
+  border-bottom: 2px solid Aqua ;
   padding-bottom: 25px;
   padding-left: 20px;
-  padding-right: 20px;
+  padding-right: 30px;
 }
