@@ -18,13 +18,14 @@
   grid-column-end: 7;
   grid-row-start: 1;
   grid-row-end: 3;
+  background-color: Teal;
+  padding: 100px:
 }
 
 .sethead{
   border: 2px solid Turquoise;
   display: flex;
   justify-content: center;
-  color:white;
   padding: 20px;
 }
 
