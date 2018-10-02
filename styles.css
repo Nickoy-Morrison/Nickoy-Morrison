@@ -4,8 +4,8 @@
   background-color:aqua;
   justify-content: center;
   height: 100%;
-  padding-bottom: 40px;
-  padding-top: 40px;
+  padding-bottom: 30px;
+  padding-top: 3`0px;
 }
 
 .grid1 {
@@ -19,11 +19,14 @@
 
 
 .head{
-  border: 2px solid navy;
-  padding: 25px;
+  border: 2px solid blue;
+  color:white;
+  padding: 20px;
 }
+
 .set1{
-  border-right: 3px solid red;
+  border-right: 3px solid white;
+  padding-left: 10px;
   background-color: grey;
 }
 
@@ -54,11 +57,14 @@
 }
 .imgspace{
   border: 2px;
-  padding-left: 25px;
+  padding-top: 15px;
+  padding-left: 15px;
   padding-right: 25px;
 }
 
 .line{
   border-bottom: 2px solid navy;
   padding-bottom: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
