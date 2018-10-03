@@ -19,22 +19,23 @@
 }
 
 .sethead{
-  border-bottom: 2px solid Turquoise;
+  border-bottom: 2px dotted Turquoise;
   display: flex;
   color: white;
   justify-content: center;
+  padding-bottom: 5px;
 
 }
 
 .boxhead{
     border: 2px solid Turquoise;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
 }
 
 .sideB{
-  border-right: 2px Aqua;
-  grid-column-start: 1;
+ border-right: 2px solid Aqua;
+ grid-column-start: 1;
  grid-column-end: 4;
  grid-row-start: 3;
  grid-row-end: 5;
