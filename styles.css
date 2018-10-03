@@ -9,7 +9,7 @@
 }
 
 .head{
-  border: 2px black solid;
+  border: 2px ;
   grid-column-start: 1;
   grid-column-end: 7;
   grid-row-start: 1;
@@ -19,7 +19,7 @@
 }
 
 .sethead{
-  border: 2px solid Turquoise;
+  border-bottom: 2px solid Turquoise;
   display: flex;
   color: white;
   justify-content: center;
@@ -29,11 +29,11 @@
 .boxhead{
     border: 2px solid Turquoise;
     text-align: center;
-
+    padding: 10px;
 }
 
 .sideB{
-  border: 2px black solid;
+  border-right: 2px Turquoise;
   grid-column-start: 1;
  grid-column-end: 4;
  grid-row-start: 3;
@@ -42,7 +42,7 @@
 }
 
 .content{
-  border: 2px black solid;
+  border: 2px;
   grid-column-start: 4;
   grid-column-end: 7;
   grid-row-start: 3;
@@ -51,8 +51,8 @@
 }
 
 .set1{
-  border-right: 3px solid white;
-  border-left: 3px solid white;
+  border-right: 4px solid white;
+  border-left: 4px solid white;
   padding-left: 10px;
   padding-right: 10px;
 
