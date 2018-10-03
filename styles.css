@@ -9,32 +9,34 @@
 }
 
 .head{
-  border: 2px ;
+  border-bottom: 1px solid Aqua;
   grid-column-start: 1;
   grid-column-end: 7;
   grid-row-start: 1;
   grid-row-end: 3;
   background-color: Teal;
-
+  padding-top: 4px;
+  padding-left: 430px;
+  padding-right: 430px;
 }
 
 .sethead{
-  border-bottom: 2px dotted Turquoise;
+  border: 3px dotted Turquoise;
   display: flex;
   color: white;
   justify-content: center;
-  padding-bottom: 5px;
+  padding: 5px;
 
 }
 
 .boxhead{
     border: 2px solid Turquoise;
     text-align: center;
-    padding: 5px;
+    padding: 16px;
 }
 
 .sideB{
- border-right: 2px solid Aqua;
+ border-right: 4px solid Aqua;
  grid-column-start: 1;
  grid-column-end: 4;
  grid-row-start: 3;
@@ -61,7 +63,7 @@
 
 .set2{
   border: 1px ;
-  padding-left: 25px;
+  padding-left: 20px;
   padding-right: 15px;
 
 }
