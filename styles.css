@@ -33,7 +33,7 @@
 }
 
 .sideB{
-  border-right: 2px Turquoise;
+  border-right: 2px Aqua;
   grid-column-start: 1;
  grid-column-end: 4;
  grid-row-start: 3;
