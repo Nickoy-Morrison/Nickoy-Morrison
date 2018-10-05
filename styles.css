@@ -1,7 +1,7 @@
 .grid {
   border: 2px;
-  height: 1100px;
-  width: 1175px;
+  height: auto;
+  width: auto;
   display: grid;
   grid-template-columns:50px 50px;
   grid-template-rows: 100px 100px;
@@ -33,8 +33,6 @@
 .boxhead{
     border: 2px solid Turquoise;
     text-align: center;
-
-
 }
 
 .sideB{
@@ -70,19 +68,26 @@
   border-radius: 200px;
 }
 
-.Para{
-  border: 1px;
-  padding-left: 130px;
-  padding-right: 50px;
-  word-wrap: break-word;
+.line{
+  display: flex;
+  flex-direction: column;
+  border-bottom: 2px solid Aqua ;
+  padding-bottom: 25px;
+}
+.set1{
+  display: flex;
 }
 
-.Para1{
-  border-bottom: 2px solid Aqua ;
-  padding-left: 130px;
-  padding-right: 50px;
-  word-wrap: break-word;
-  padding-bottom: 40px;
+.child1{
+border: 1px;
+width: auto;
+}
+
+.child2{
+  border: 1px ;
+  flex-wrap: wrap;
+  width: 80%;
+  padding-left: 40px;
 }
 
 .imgspace{
@@ -92,10 +97,6 @@
   padding-right: 25px;
 }
 
-.line{
-  border-bottom: 2px solid Aqua ;
-  padding-bottom: 25px;
-}
 
 body{
   font-family: "Times New Roman", Times, serif;
